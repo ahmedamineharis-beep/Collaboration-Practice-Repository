@@ -1,0 +1,10 @@
+1) create repo in github 
+2) create a file for porject
+3) npm create vite@latest (nameofproject) [using git]
+4) select a framework (chose react)
+5) select a variant ( chose javascript )
+6) use rolldown-vite (expermental)? : yes 
+7) install with npm and start now : yes
+8) open bash in terminal [vs code]
+9) write  (npm run dev) in bash
+10) (ctrl + http://localhost:5174/ +click on mouse left button) or ( o + enter )
